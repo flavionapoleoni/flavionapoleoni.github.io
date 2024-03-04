@@ -1,0 +1,36 @@
+<html>
+<head>
+      <title>Simulazione di un Hub</title>
+</head>
+    <h1>Simulazione di un Hub</h1>
+
+    <form id="messageForm">
+           <label for="message">Inserisci un messaggio:</label>
+           <input type="text" id="message" required>
+           <button type="submit">Invia</button>
+    </form>
+
+   <h2>PC Collegati all'Hub:</h2>
+
+   <div id="pc1">PC1:</div>
+   <div id="pc2">PC2:</div>
+   <div id="pc3">PC3:</div>
+   <div id="pc4">PC4: </div>
+
+ <script>
+     document.getElementById("messageForm").addEventLinstener("sumbit" , function (e)  {
+     e.preventDefault();
+     const message = document.getElementById("message").value;
+
+   //Invia il messaggio a tutti i pc simulati
+   document .getElementById("pc1").textContent += message +"<br>";
+   document.getElementById("pc2").textContent += message +"<br>";
+   document.getElementById("pc3").textContent +=  message +"<br>";
+   document.getElementById("pc4").textContent += message +"<br>";
+
+   //Resetta la form
+   document.getElementById("message").value ="";
+ });
+ </script>
+</body>
+</html>
