@@ -1,1 +1,32 @@
+<html>
+ <head>
+  <title> router sistemi </title>
+ </head>
+ <body>
+<h1><b><center><font color="red">LINKSYS ROUTER</h1></b></center></font>
 
+
+<h2>Tutte le caratteristiche della configurazione vengono dettagliatamente descritte nella guida utente.<br>
+
+La funzione di filtro per indirizzi MAC consente di inserire fino a 40 indirizzi MAC a cui si può proibire o abilitare l'accesso alla rete Wireless.<br>Questa funzionalità non blocca l'accesso solo alla parte Wireless ma anche alla parte via cavo della rete in modo da bloccare qualsiasi intrusione di computer non autorizzati.<br>
+
+Questa funzionalità utilizza tre finestre di dialogo per l'impostazione degli indirizzi MAC e risulta alquanto confusa.<br> Un caratteristica positiva di questa funzionalità è la possibilità di visualizzare tutti gli indirizzi dei PC connessi in rete e di poter copiare l'indirizzo negli appunti per poterlo eventualmente bloccare.<br> La brutta notizia è che la lista degli indirizzi configurati non può essere ne salvata su file ne caricata da un file.<br>
+
+La configurazione delle chiavi WEP è molto semplice.<br>Si possono inserire chiavi di crittografia sia da 64 che 128 bit sia con caratteri esadecimali che alfanumerici.<br>Sono consentite quattro chiavi differenti di crittografia che però non possono essere salvate su file.<br>
+
+In questo prodotto sono presenti alcune mancanze tra cui l'impossibilità di monitorare i client connessi in wireless e di ottenere informazioni sui flussi di dati trasmessi e sulle caratteristiche del segnale.<br> L'unico modo per controllare i client connessi è quello di attivare il filtro degli indirizzi MAC.<br>
+
+Da notare anche che le capacità di Bridging della parte Wireless presenti nel WAP54G non sono presenti nel router.<br>
+
+Nella versione firmware 2.02.2 sono state aggiunte, per il WAP54G, le funzionalità di Bridging per l'apparato Wireless.</h2><br>
+
+<br><center><img src="https://tse2.mm.bing.net/th?id=OIP.RKN6lvlGxhX0KbAsRuwowQHaE5&pid=Api&P=0&h=180" width=300 heigh=150></center>
+
+<h2>Il costo del router parte dai 10 euro fino ad arrivare ai 30/40 euro.<br>
+Ovviamente questo dipende da molti fattori , come :<br>
+-Dimensione<br>
+-Capacità<br>
+E cosi via.</h2><br>
+
+ </body>
+</html>
